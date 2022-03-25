@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehakgupta1103" alt="mehakgupta1103" /></a> </p>
 
 <img align = "right" alt="coding" width = 400 src = "https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47f8yc4gaa8mu5ou09e9x02uusstzevrgq6xudmx4q&rid=giphy.gif&ct=g"  >
-- 🔭 I’m currently working on **JobKart**
+- 🔭 I’m currently working on **JobsKart**
 
 - 🌱 I’m currently learning **javascript**
 
